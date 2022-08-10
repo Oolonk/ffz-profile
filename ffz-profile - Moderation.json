@@ -1,0 +1,1 @@
+{"version":2,"type":"profile","profile":{"id":1,"name":"Moderation","i18n_key":"setting.profiles.moderation","description":"Settings that apply when you are a moderator of the current channel.","context":[{"type":"Moderator","data":true}]},"toggled":true,"values":{}}

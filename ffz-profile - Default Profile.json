@@ -1,0 +1,1 @@
+{"version":2,"type":"profile","profile":{"id":0,"name":"Default Profile","i18n_key":"setting.profiles.default","description":"Settings that apply everywhere on Twitch."},"toggled":true,"values":{"player.home.autoplay":false,"ffzap.core.remove_spaces":true,"addon.pronouns.border":false,"player.mute-click":true,"ffzap.core.enable_highlight_sound":false}}
